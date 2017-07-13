@@ -22,6 +22,6 @@ Before you run the script make sure you have all this libs:
 
 That's it, no big deal!
 
-If you want to add more features or help to become it  better feel free to :)
+<b>If you want to add more features or help to become it  better feel free to</b> :)
 
 Enjoy.
