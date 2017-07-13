@@ -10,7 +10,7 @@ Simple script able to capture events like a keylogger but as the name says 'scre
 
 # Requirements
 
-Before you run the script make sure you get all this libs if you do not have:
+Before you run the script make sure you have all this libs:
 
 - *pynput*
 - *pyautogui*
