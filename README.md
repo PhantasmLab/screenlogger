@@ -14,7 +14,7 @@ Before you run the script make sure you have all this libs:
 
 - *pynput*
 - *pyautogui*
-- *scroll*
+- *scroll* (only GNU/linux)
 
 
 
