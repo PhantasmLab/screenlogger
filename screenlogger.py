@@ -10,7 +10,7 @@ __copyright__ = 'Copyright 2017, łαbørαŧøriø Ŧαηŧαsмα'
 
 __license__ = 'GPL'
 __version__ = 'alpha 1.0.1'
-__contact__ = 'Telegram, @cyr4x'
+__contact__ = 'Telegram : @cyr4x'
 
 class MyException(Exception): pass
 
